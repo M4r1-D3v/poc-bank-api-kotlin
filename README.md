@@ -1,6 +1,6 @@
 # poc-bank-api-kotlin
 
-`Project creation Date: 2018`
+`Project creation date: 2018`
 
 Application that simulates a bank api, allowing the registration of customers, and the operations of deposits, withdrawals, transfers, balance inquiries and account statements.
 
